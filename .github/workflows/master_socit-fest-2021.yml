@@ -56,5 +56,5 @@
           with:
             app-name: 'socit-fest-2021'
             slot-name: 'production'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_2fcae8ca932a4c3f83b89d79a1a684a9 }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_a4e6106ffa534e07a7f897137658567c }}
             package: .
